@@ -1,2 +1,1 @@
 # caravan3
-hoge
