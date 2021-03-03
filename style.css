@@ -16,6 +16,17 @@ header {
   text-align: center;
 }
 
+.social {
+  position: absolute;
+  top: 22px;
+  right: 22px;
+}
+
+.social i {
+  display: inline-block;
+  margin-left: 20px;
+}
+
 header .heading {
   font-size: 32px;
 }
